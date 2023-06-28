@@ -21,6 +21,9 @@ def main():
     for i in range(10):
         print(fibonacci_function_module(i)) 
         
+print("I'm outside the execution scope")    
+
+int = "overridden"
 
 if __name__ == "__main__":
     
