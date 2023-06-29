@@ -1,0 +1,8 @@
+,borrower,interest_rate,loan_amount,loan_id,securitized,term
+0,"{'email': 'qherrera@example.com', 'id': 23271, 'name': 'Steven Price'}",2.87,257621.6,87572,True,15
+1,"{'email': 'erinharris@example.org', 'id': 4269, 'name': 'David Moore'}",2.87,711094.27,98467,False,30
+2,"{'email': 'michaeldyer@example.com', 'id': 71181, 'name': 'Jennifer Doyle'}",2.91,468305.19,28754,False,15
+3,"{'email': 'alison73@example.net', 'id': 80016, 'name': 'James Perez'}",2.16,809004.11,71729,False,30
+4,"{'email': 'hudsonrachel@example.org', 'id': 65828, 'name': 'April Whitaker'}",2.28,784485.6,60221,True,30
+5,"{'email': 'hillmichael@example.com', 'id': 91826, 'name': 'Sharon Davis'}",2.9,659391.33,90059,True,30
+6,"{'email': 'johnnywilson@example.org', 'id': 29806, 'name': 'Calvin Davis'}",4.07,902636.27,23177,False,15
